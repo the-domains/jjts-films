@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:12:43.833Z'
-dateModified: '2016-02-05T21:12:40.361Z'
+datePublished: '2016-02-05T21:41:54.718Z'
+dateModified: '2016-02-05T21:41:52.668Z'
 title: Camera Operator
 author: []
 sourcePath: _posts/2016-02-05-cameraman.md
@@ -31,4 +31,4 @@ Our camera ops have worked on a variety of cameras and grip.
 Working all over the world.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e5c6c49-e5bb-4882-b9de-443506b8ac7d.JPG)
 
-Our Sony EX-3 kits are out all the time
+Our Sony EX-3 kits are out all the time ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69d7a3f1-39e1-4eb4-84df-1cdc0af35251.jpg)
