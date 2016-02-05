@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T20:35:48.332Z'
-dateModified: '2016-02-05T20:35:45.449Z'
+datePublished: '2016-02-05T21:47:52.381Z'
+dateModified: '2016-02-05T21:47:50.167Z'
 title: Equipment Hire
 author: []
 sourcePath: _posts/2016-02-05-equipment-hire.md
