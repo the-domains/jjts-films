@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JJTS Films]]></title>
+        <description><![CDATA[JJTS Films]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 16:01:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All the Fear of the Fair (2012)]]></title>
+            <description><![CDATA[<article><h1>All the Fear of the Fair (2012)</h1><p>Directed by Chris Jupp. With Leigh Cunningham, Jon Jupp, Hayley Tutton, Mark White. After a roller-coaster accident kills a large party of school children the fair closes down. The owner vows to make amends by building a non-profit youth club filled with all the memorabilia he's had to remove from the now deserted fairground.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ad030362ed902d7b4641747a7ab0c7a4ff82819.png"></article>]]></description>
+            <link>http://www.imdb.com/title/tt2606456/?ref_=fn_al_tt_1</link>
+            <guid isPermaLink="false">4364e995-d7c0-4aba-becb-0feacf1f0f11</guid>
+            <pubDate>Fri, 05 Feb 2016 16:00:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
