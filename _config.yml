@@ -1,7 +1,7 @@
 name: JJTS Films
 favicon: null
 layout_spectrum: 0.5635207260493189
-typography_spectrum: 0.10935
+typography_spectrum: 0.32031
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#08050c'
-    - '#00ffff'
-    - '#ef7b30'
-    - '#ffff0a'
+    - '#000000'
+    - '#ffff01'
+    - '#ff9200'
+    - '#811f00'
+    - '#ff4500'
   brandStrength: 0.7404394228942692
   lightness: 0.9555732836015522
-  saturation: 0.27138819987885654
+  saturation: 0.75
   rhythmicContrast: 0.1486531647387892
 purpose: []
