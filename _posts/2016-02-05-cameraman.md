@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:07:28.705Z'
-dateModified: '2016-02-05T16:54:53.862Z'
+datePublished: '2016-02-05T21:12:43.833Z'
+dateModified: '2016-02-05T21:12:40.361Z'
 title: Camera Operator
 author: []
 sourcePath: _posts/2016-02-05-cameraman.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Camera Operator
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d905092-5dc4-4485-b058-d2685f84f1e4.jpg)
 
 Our camera ops have worked on a variety of cameras and grip.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b959641a-27db-4f10-bd68-c73d48c3d383.jpg)
