@@ -6,20 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T16:02:38.476Z'
-dateModified: '2016-02-05T16:02:30.151Z'
-title: Cameraman
+datePublished: '2016-02-05T16:26:31.420Z'
+dateModified: '2016-02-05T16:26:28.468Z'
+title: Camera Operator
+author: []
+sourcePath: _posts/2016-02-05-cameraman.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-cameraman.md
-published: true
 url: cameraman/index.html
 _type: Article
 
 ---
-Cameraman text
+# Camera Operator
+
+Our camera ops have worked on a variety of cameras and grip.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b959641a-27db-4f10-bd68-c73d48c3d383.jpg)
+
+Working all over the world in every environment.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e5c6c49-e5bb-4882-b9de-443506b8ac7d.JPG)
