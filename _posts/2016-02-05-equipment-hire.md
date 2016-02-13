@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:47:52.381Z'
-dateModified: '2016-02-05T21:47:50.167Z'
+datePublished: '2016-02-13T21:13:26.346Z'
+dateModified: '2016-02-13T21:13:24.300Z'
 title: Equipment Hire
 author: []
 sourcePath: _posts/2016-02-05-equipment-hire.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: equipment-hire/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0d2d192-d3a0-4605-9b0a-bed756156435.JPG)
