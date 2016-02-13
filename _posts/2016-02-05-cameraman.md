@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:41:54.718Z'
-dateModified: '2016-02-05T21:41:52.668Z'
+datePublished: '2016-02-13T21:13:12.762Z'
+dateModified: '2016-02-13T21:13:09.839Z'
 title: Camera Operator
 author: []
 sourcePath: _posts/2016-02-05-cameraman.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: cameraman/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Camera Operator
